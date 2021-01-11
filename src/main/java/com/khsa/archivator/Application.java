@@ -1,3 +1,4 @@
+package com.khsa.archivator;
 
 public class Application {
 
